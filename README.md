@@ -12,9 +12,7 @@
 ## 📁 Cấu trúc repo
 
 ├── main.cpp # Code chính của từng bài
-
 ├── README.md # Tài liệu mô tả repo
-
 └── ...
 
 ## 📌 Lưu ý
